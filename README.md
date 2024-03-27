@@ -75,12 +75,22 @@ Testing the webserver.
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
 </body>
 </html>
-```
+'''
+
+
+
+
+
+
+
+
 ## OUTPUT:
 
 <img width="938" alt="Screenshot 2024-03-27 085230" src="https://github.com/SIVAmech123/simplewebserver/assets/151629067/d4238dd6-5d86-4ec3-9f14-cb54e39adda2">
 <img width="939" alt="Screenshot 2024-03-27 085313" src="https://github.com/SIVAmech123/simplewebserver/assets/151629067/d57b6fbb-8f3b-433f-aa3f-a30be9082f03">
 <img width="916" alt="Screenshot 2024-03-27 085326" src="https://github.com/SIVAmech123/simplewebserver/assets/151629067/dbc9f5a4-60f5-4a4d-9a09-2a52341a6711">
+
+
 
 
 ## RESULT:
